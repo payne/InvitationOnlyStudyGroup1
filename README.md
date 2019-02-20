@@ -1,4 +1,4 @@
-# InvitationOnlyStudyGroup1
+# Invitation Only Study Group 1
 
 Experiment one in creating a reusable invitation only study group.   You can use these materials to create your own study group.  I hope you do, this is why I want to keep the notes in github.   These notes will not contain any personally identifiable details of the participants without their consent.
 
@@ -20,4 +20,15 @@ As a facilitator of this study group I want to enable the participants to engage
 2. Plan meetings in advance so people know what to expect and if some preparation is required (and exactly what that preparation is):
 
 
+## Meeting Table of Contents
 
+1. First Meeting -- Demo and computer setup.  Note: demo can be done as a private YouTube.com video.
+   1. Demo of where we are going -- a web application that uses java & jQuery and runs on https://www.heroku.com/ 
+   2. Demo of selenium based test suite for the web application.
+   3. Setting up the java development kit and eclipse integrated development environment (IDE)
+   4. Discussion of the learning materials (Think Java and Coding Bat (from above)).
+2. Second Meeting -- Let's code!
+   1. Given an existing web application, let's write some selenium based tests for it.   We'll use the example set of tests from the first meeting as a jumping off point for this.  Along the way we'll have hands on examples of beginning java concepts -- loops, sub routines (methods), classes etc.
+   2. People will leave with working code (or almost working code) and a list of things that could do (but don't have to) before the next meeting.   People who "get ahead" of the rest will be expected to help others.  This is one of the experimental aspects of this small and invitaiton only study group.
+   
+   
